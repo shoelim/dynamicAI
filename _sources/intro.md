@@ -1,16 +1,7 @@
-# Welcome to your Jupyter Book
+# Dynamic AI Lab Notebook 
 
-This is a small sample book to give you a feel for how book content is
-structured.
+This notebook aims to explore various topics at the interface of dynamical systems and machine learning. 
 
 :::{note}
-Here is a note!
+Under construction! Any feedback is welcome! 
 :::
-
-And here is a code block:
-
-```
-e = mc^2
-```
-
-Check out the content pages bundled with this sample book to see more.
